@@ -1,6 +1,3 @@
-js-frontend-tools-talk
-======================
-
 # Build
 ## Task runners
 ## Preprocessors
